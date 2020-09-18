@@ -18,7 +18,7 @@ email:
 * Investigated disturbance and maintained peace
 * Wrote a daily report and archived it to be reviewed later if necessary
 * Preformed routine patrols
-* Monitored a surveillance cameras
+* Monitored surveillance cameras
 * kept my superiors informed on any unusal events or happenings
 * interacted politely with citizens and helped resolved disputes
 
