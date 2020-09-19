@@ -6,7 +6,7 @@ borj abi haidar, beirut, lebanon.
 
 phone: 961+ 03-483625
 
-email: 
+email: lebdroid@gmail.com
 *****
 
 ## ***PROFESSIONAL EXPERIENCE***
